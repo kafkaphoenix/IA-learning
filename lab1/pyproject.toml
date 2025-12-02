@@ -1,0 +1,27 @@
+[project]
+name = "lab1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.13.3"
+dependencies = [
+    "pandas==2.3.3", # for data manipulation and analysis
+    "scikit-learn==1.7.2", # for machine learning
+    "scipy==1.16.3", # for scientific computing
+    "matplotlib==3.10", # for plotting and visualizations, more than 3.10 is not compatible with ydata-profiling 4.18
+    "nbformat==5.10.4", # for working with Jupyter notebooks
+    "plotly==6.5.0", # for interactive visualizations
+    "seaborn==0.13.2", # for data visualization
+    "sweetviz==2.3.1", # for automatic EDA reports, not compatible with python 3.12+
+    "ipywidgets==8.1.8", # for interactive widgets in Jupyter notebooks, required by sweetviz
+    "ydata-profiling==4.18", # for automatic EDA reports, previously known as pandas-profiling
+    "setuptools==80.9.0", # for ydata-profiling bug fix https://github.com/ydataai/ydata-profiling/issues/1618
+    "autoviz==0.1.905", # for automatic EDA reports
+    "jupyter-bokeh==4.0.5", # for interactive visualizations in Jupyter notebooks, required by autoviz
+    "pygwalker>=0.4.9.15", # for interactive visualizations in Jupyter notebooks, similar to Tableau
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+]
