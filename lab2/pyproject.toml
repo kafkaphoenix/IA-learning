@@ -18,7 +18,6 @@ dependencies = [
     "setuptools==80.9.0", # for ydata-profiling bug fix https://github.com/ydataai/ydata-profiling/issues/1618
     "autoviz==0.1.905", # for automatic EDA reports
     "jupyter-bokeh==4.0.5", # for interactive visualizations in Jupyter notebooks, required by autoviz
-    "pygwalker>=0.4.9.15", # for interactive visualizations in Jupyter notebooks, similar to Tableau
 ]
 
 [dependency-groups]
