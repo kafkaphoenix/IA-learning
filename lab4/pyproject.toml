@@ -24,6 +24,7 @@ dependencies = [
     "skimpy>=0.0.19", # for quick data exploration and summary statistics
     "sidetable>=0.9.1", # to build frequency tables and cross-tabulations
     "keras>=3.13.0",
+    "tensorflow>=2.20.0",
 ]
 
 [dependency-groups]
