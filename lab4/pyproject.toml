@@ -18,13 +18,11 @@ dependencies = [
     "setuptools==80.9.0", # for ydata-profiling bug fix https://github.com/ydataai/ydata-profiling/issues/1618
     "autoviz==0.1.905", # for automatic EDA reports
     "jupyter-bokeh==4.0.5", # for interactive visualizations in Jupyter notebooks, required by autoviz
-    "xgboost>=1.6.2",
-    "lightgbm>=4.6.0",
-    "catboost>=1.2.8",
-    "skimpy>=0.0.19", # for quick data exploration and summary statistics
-    "sidetable>=0.9.1", # to build frequency tables and cross-tabulations
-    "keras>=3.13.0",
-    "tensorflow>=2.20.0",
+    "skimpy==0.0.19", # for quick data exploration and summary statistics
+    "sidetable==0.9.1", # to build frequency tables and cross-tabulations
+    "keras==3.13.0",
+    "tensorflow==2.20.0",
+    "torch==2.9.1",
 ]
 
 [dependency-groups]
