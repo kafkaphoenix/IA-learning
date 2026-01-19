@@ -25,6 +25,14 @@ dependencies = [
     "torch==2.9.1",
     "torchvision==0.24.1",
     "pillow==12.0.0",
+    "spacy==3.8.11", # for natural language processing
+    "opendatasets==0.1.22", # to download datasets from online sources
+    "legacy-cgi==2.6.4", # deprecated python library required by opendatasets
+    "nltk==3.9.2", # for natural language processing
+    "transformers==4.57.5", # for NLP models and transformers
+    "gensim>=4.4.0", # for topic modeling and document similarity
+    "tf-keras==2.20.1", # required for tensorflow and keras compatibility
+    "pip>=25.3",
 ]
 
 [dependency-groups]
