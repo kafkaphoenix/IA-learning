@@ -8,4 +8,4 @@ In this lab, we will explore advanced architectures and techniques in Natural La
 3. Sequence Models: RNNs and LSTMs
 4. Transformer Architecture: Attention is all you need
 5. Transfer Learning in NLP: Fine-tuning Pre-trained Models
-6. Pretrained Language Models: BERT, GPT, and beyond
+6. Pretrained Language Models: BERT and RoBERTa
