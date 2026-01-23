@@ -1,5 +1,5 @@
-# Machine learning no supervisado
-Este laboratorio se centra en la implementación de algoritmos de aprendizaje no supervisado.
+# Lab 3 - Unsupervised Learning Algorithms
+This lab focuses on the implementation of unsupervised learning algorithms.
 
-## 1. Aprendizaje no supervisado
-Veremos técnicas de clustering y reducción de dimensionalidad, incluyendo K-means, DBSCAN y PCA.
+## 1. Unsupervised learning
+We will cover clustering and dimensionality reduction techniques, including K-means, DBSCAN, and PCA.

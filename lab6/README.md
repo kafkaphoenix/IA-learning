@@ -1,4 +1,4 @@
-# Lab 6 - Techniques of Optimization for training
+# Lab 6 - Techniques of optimization for training
 
 This lab focuses on various optimization techniques used in training machine learning models. The goal is to understand and implement different optimization algorithms to improve the training process and model performance.
 

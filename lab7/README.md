@@ -1,0 +1,2 @@
+# Lab 7 - Foundations Models and Generative Models
+This lab explores the concepts and applications of foundation models, including transformers and large language models (LLMs), as well as generative models such as GANs and VAEs.

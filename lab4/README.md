@@ -1,4 +1,4 @@
-# Deep learning
+# Lab 4 - Deep Learning
 This lab focuses on deep learning techniques and their applications. We will explore various neural network architectures, training methods, and performance evaluation metrics.
 
 1. Introduction to Deep Learning
