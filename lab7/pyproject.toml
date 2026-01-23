@@ -3,5 +3,11 @@ name = "lab7"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
+requires-python = "==3.13.3"
+dependencies = [
+    "matplotlib==3.10",
+    "torch==2.9.1",
+    "torchvision==0.24.1",
+    "pip==25.3", # required by torch
+    "ipykernel==7.1.0", # for Jupyter notebook support
+]

@@ -32,7 +32,7 @@ dependencies = [
     "transformers==4.57.5", # for NLP models and transformers
     "gensim>=4.4.0", # for topic modeling and document similarity
     "tf-keras==2.20.1", # required for tensorflow and keras compatibility
-    "pip>=25.3",
+    "pip==25.3",
 ]
 
 [dependency-groups]
